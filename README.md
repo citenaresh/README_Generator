@@ -45,7 +45,7 @@ The user will be prompted for their GitHub username and other information pertai
 
 ## Contributors
 
-**[Git Hub Profile](https://github.com/citenaresh): https://github.com/citenaresh
+-[Git Hub Profile](https://github.com/citenaresh): https://github.com/citenaresh
 
 
 ## Repository
