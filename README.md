@@ -45,7 +45,7 @@ The user will be prompted for their GitHub username and other information pertai
 
 ## Contributors
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40hoffman1200-orange)
+![Git Hub Profile](https://github.com/citenaresh): https://github.com/citenaresh
 
 
 ## Repository
