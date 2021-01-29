@@ -12,9 +12,9 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ### README example
 
-![Foto1](foto1)   
-![Foto2](foto2)
-![Foto3](foto3)
+![Foto1](pic1.png)   
+![Foto2](pic2.png)
+![Foto3](pic3.png)
 
 
 ## Table of contents
