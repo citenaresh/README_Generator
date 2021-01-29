@@ -9,7 +9,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
  
 [Video Link]
-![](video_still.png)
+[](video_still.png)
 (https://drive.google.com/file/d/1MH7s1ca_zFVhzdlb2lKQJ6eUQD7mno0M/view?usp=sharing)
 
 ### README example
